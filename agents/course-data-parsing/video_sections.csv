@@ -1,0 +1,269 @@
+﻿id,course_id,title,order_index
+10000,1,C# and .NET Foundations,1
+10001,1,ASP.NET Core Web Development,2
+10002,1,Data and Security,3
+10003,1,Production Project,4
+10004,2,Algorithm Foundations,1
+10005,2,Core Techniques,2
+10006,2,Graph and Tree Algorithms,3
+10007,2,Advanced Problem Solving,4
+10008,3,Ansible Foundations,1
+10009,3,Reusable Automation,2
+10010,3,Infrastructure Automation,3
+10011,3,Reliable Operations,4
+10012,4,API Fundamentals,1
+10013,4,API Contracts,2
+10014,4,Security and Reliability,3
+10015,4,Testing and Delivery,4
+10016,5,AI Foundations,1
+10017,5,Modern AI Systems,2
+10018,5,Building AI Applications,3
+10019,5,Deployment and Governance,4
+10020,6,Neural Network Basics,1
+10021,6,Training Models,2
+10022,6,Major Architectures,3
+10023,6,Practical Deep Learning,4
+10024,7,AWS Core Foundations,1
+10025,7,Networking and Data,2
+10026,7,Serverless and Containers,3
+10027,7,Security and Operations,4
+10028,8,Azure Foundations,1
+10029,8,Networking and Applications,2
+10030,8,Cloud Automation,3
+10031,8,Security and Operations,4
+10032,9,Bash Essentials,1
+10033,9,Script Building,2
+10034,9,Automation Tools,3
+10035,9,Safe Production Scripts,4
+10036,10,Big Data Foundations,1
+10037,10,Data Processing Ecosystem,2
+10038,10,Streaming and Pipelines,3
+10039,10,Production Data Platforms,4
+10040,11,ChatGPT Essentials,1
+10041,11,Productivity Workflows,2
+10042,11,Advanced Prompting,3
+10043,11,Responsible Use,4
+10044,12,CI/CD Fundamentals,1
+10045,12,Pipeline Construction,2
+10046,12,Delivery Strategies,3
+10047,12,Quality and Operations,4
+10048,13,Cloud Computing Foundations,1
+10049,13,Cloud Architecture,2
+10050,13,Cloud Security and Governance,3
+10051,13,Cloud Delivery,4
+10052,14,Analytics Foundations,1
+10053,14,Data Analysis Tools,2
+10054,14,Visualization and Statistics,3
+10055,14,Business Insights,4
+10056,15,Data Quality Foundations,1
+10057,15,Cleaning with SQL and Spreadsheets,2
+10058,15,Cleaning with Python,3
+10059,15,Repeatable Data Preparation,4
+10060,16,Data Science Foundations,1
+10061,16,Statistics and Preparation,2
+10062,16,Modeling,3
+10063,16,Projects and Communication,4
+10064,17,DBMS Fundamentals,1
+10065,17,SQL and Transactions,2
+10066,17,Performance and Reliability,3
+10067,17,Advanced Database Design,4
+10068,18,DDD Foundations,1
+10069,18,Modeling Complex Domains,2
+10070,18,DDD in Application Architecture,3
+10071,18,Practical DDD,4
+10072,19,Pattern Foundations,1
+10073,19,Structural Patterns,2
+10074,19,Behavioral Patterns,3
+10075,19,Applying Patterns,4
+10076,20,DevOps Foundations,1
+10077,20,Build and Release Automation,2
+10078,20,Infrastructure and Containers,3
+10079,20,Reliability and Security,4
+10080,21,Django Foundations,1
+10081,21,Data and Forms,2
+10082,21,Web Security and APIs,3
+10083,21,Testing and Deployment,4
+10084,22,Docker Foundations,1
+10085,22,Application Packaging,2
+10086,22,Container Operations,3
+10087,22,Production Workflows,4
+10088,23,Data Structure Foundations,1
+10089,23,Trees and Graphs,2
+10090,23,Problem-Solving Patterns,3
+10091,23,Advanced DSA,4
+10092,24,Email Fundamentals,1
+10093,24,Email Deliverability,2
+10094,24,Email Integration,3
+10095,24,Security and Operations,4
+10096,25,Excel Foundations,1
+10097,25,Analysis Functions,2
+10098,25,Reporting and Visualization,3
+10099,25,Automation and Data,4
+10100,26,Google Cloud Foundations,1
+10101,26,Data and Application Services,2
+10102,26,Delivery and Automation,3
+10103,26,Security and Operations,4
+10104,27,Git Essentials,1
+10105,27,Collaboration,2
+10106,27,History and Recovery,3
+10107,27,Advanced Git,4
+10108,28,GitHub Foundations,1
+10109,28,Automation with GitHub Actions,2
+10110,28,Collaboration and Security,3
+10111,28,Project Delivery,4
+10112,29,Interview Preparation,1
+10113,29,Coding Interviews,2
+10114,29,System and Technical Rounds,3
+10115,29,Final Preparation,4
+10116,30,Core Java Foundations,1
+10117,30,Object-Oriented and Core APIs,2
+10118,30,Concurrency and Modern Java,3
+10119,30,Building Applications,4
+10120,31,Java 8 Language Features,1
+10121,31,Streams API,2
+10122,31,Modern Date and Optional,3
+10123,31,Practical Java 8,4
+10124,32,Java 9 Platform Changes,1
+10125,32,Language and API Additions,2
+10126,32,Streams and Optional Updates,3
+10127,32,Migration and Practice,4
+10128,33,Modern Java Overview,1
+10129,33,Modern Syntax and Data,2
+10130,33,Concurrency and Runtime,3
+10131,33,Adoption in Projects,4
+10132,34,JavaScript Foundations,1
+10133,34,Browser JavaScript,2
+10134,34,Asynchronous JavaScript,3
+10135,34,Maintainable Applications,4
+10136,35,Jenkins Foundations,1
+10137,35,Pipeline as Code,2
+10138,35,CI/CD Integration,3
+10139,35,Operations and Security,4
+10140,36,JSON Fundamentals,1
+10141,36,JSON in APIs,2
+10142,36,Serialization and Integration,3
+10143,36,Reliability and Security,4
+10144,37,Kubernetes Foundations,1
+10145,37,Application Configuration,2
+10146,37,Traffic and Storage,3
+10147,37,Operations,4
+10148,38,Kubernetes Foundations,1
+10149,38,Application Configuration,2
+10150,38,Networking and Storage,3
+10151,38,Production Operations,4
+10152,39,LeetCode Strategy,1
+10153,39,Common Patterns,2
+10154,39,Trees and Graphs,3
+10155,39,Advanced Patterns,4
+10156,40,Linux Foundations,1
+10157,40,Shell and Networking,2
+10158,40,System Administration,3
+10159,40,Troubleshooting and Security,4
+10160,41,Coding Interview Core,1
+10161,41,Advanced Algorithms,2
+10162,41,System Design,3
+10163,41,Interview Execution,4
+10164,42,ML Foundations,1
+10165,42,Core Models,2
+10166,42,Evaluation and Tuning,3
+10167,42,End-to-End ML,4
+10168,43,MongoDB Foundations,1
+10169,43,Data Modeling,2
+10170,43,Aggregation and Applications,3
+10171,43,Production MongoDB,4
+10172,44,Nagios Foundations,1
+10173,44,Checks and Notifications,2
+10174,44,Monitoring at Scale,3
+10175,44,Operations,4
+10176,45,Networking Foundations,1
+10177,45,Core Protocols,2
+10178,45,Troubleshooting,3
+10179,45,Secure Networks,4
+10180,46,Next.js Foundations,1
+10181,46,Data and Rendering,2
+10182,46,Application Features,3
+10183,46,Production Next.js,4
+10184,47,NumPy Foundations,1
+10185,47,Numerical Operations,2
+10186,47,Linear Algebra and Randomness,3
+10187,47,Practical Data Work,4
+10188,48,OpenShift Foundations,1
+10189,48,Application Configuration,2
+10190,48,Delivery and Security,3
+10191,48,Operations,4
+10192,49,Performance Engineering Foundations,1
+10193,49,Application Profiling,2
+10194,49,Database and Web Performance,3
+10195,49,Optimization Workflow,4
+10196,50,Pipeline Foundations,1
+10197,50,Build and Test Automation,2
+10198,50,Deployment Pipelines,3
+10199,50,Reliability and Governance,4
+10200,51,Power BI Foundations,1
+10201,51,Data Modeling,2
+10202,51,Reports and Dashboards,3
+10203,51,Publishing and Governance,4
+10204,52,PowerShell Foundations,1
+10205,52,Automation Scripts,2
+10206,52,System Administration,3
+10207,52,Reusable Tooling,4
+10208,53,Python Foundations,1
+10209,53,Core Python,2
+10210,53,Professional Python,3
+10211,53,Practical Application,4
+10212,54,React Foundations,1
+10213,54,Hooks and Data,2
+10214,54,Application Architecture,3
+10215,54,Production React,4
+10216,55,React Core Concepts,1
+10217,55,Hooks in Practice,2
+10218,55,Frontend Integration,3
+10219,55,Testing and Optimization,4
+10220,56,REST Principles,1
+10221,56,API Design,2
+10222,56,Security and Reliability,3
+10223,56,Testing and Documentation,4
+10224,57,Resume Foundations,1
+10225,57,Technical Resume,2
+10226,57,ATS and Tailoring,3
+10227,57,Application Readiness,4
+10228,58,SEO Foundations,1
+10229,58,On-Page and Technical SEO,2
+10230,58,Content and Authority,3
+10231,58,Measurement and Improvement,4
+10232,59,Shell Scripting Basics,1
+10233,59,Text and Files,2
+10234,59,Robust Automation,3
+10235,59,Operational Scripts,4
+10236,60,Spring Framework Foundations,1
+10237,60,Core Application Features,2
+10238,60,Web and Security,3
+10239,60,Testing and Design,4
+10240,61,Spring Boot Foundations,1
+10241,61,REST API Development,2
+10242,61,Security and Integration,3
+10243,61,Production Readiness,4
+10244,62,SQL Foundations,1
+10245,62,Data Changes and Modeling,2
+10246,62,Advanced SQL,3
+10247,62,Practical SQL,4
+10248,63,System Design Foundations,1
+10249,63,Scaling Fundamentals,2
+10250,63,Distributed Systems,3
+10251,63,Design Case Studies,4
+10252,64,Terraform Foundations,1
+10253,64,Reusable Infrastructure,2
+10254,64,Safe Infrastructure Changes,3
+10255,64,Production Terraform,4
+10256,65,Testing Foundations,1
+10257,65,Application Testing,2
+10258,65,Quality Engineering,3
+10259,65,Automation and Delivery,4
+10260,66,UI Foundations,1
+10261,66,Interaction Design,2
+10262,66,Accessibility and Usability,3
+10263,66,Implementation and Handoff,4
+10264,67,Web Foundations,1
+10265,67,Frontend Programming,2
+10266,67,Backend and Data,3
+10267,67,Shipping a Website,4

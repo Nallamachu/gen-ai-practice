@@ -1,0 +1,805 @@
+id,section_id,title,youtube_video_id,duration_seconds,order_index
+1,1,"C# syntax, types, and control flow",gfkTfcpWqAY,0,1
+2,1,"Classes, interfaces, and object-oriented programming",pTB0EiLXUC8,0,2
+3,1,"LINQ, generics, and exception handling",OY2lPr8h93U,0,3
+4,2,Build an ASP.NET Core web API,yLHWt-1aSCQ,0,1
+5,2,Dependency injection and configuration,5cRaQqQb14Q,0,2
+6,2,"Middleware, routing, and model validation",#NAME?,0,3
+7,3,Entity Framework Core and migrations,k0SDlRYMByE,0,1
+8,3,Authentication and authorization,iX8g4LqF8p8,0,2
+9,3,"Logging, testing, and error handling",cFTFtuEQ-10,0,3
+10,4,Build a CRUD application end to end,_7UQPve99r4,0,1
+11,4,Caching and performance basics,dGAgxozNWFE,0,2
+12,4,Publish and deploy a .NET application,OlkpRoE2mYQ,0,3
+13,5,Time and space complexity,FPu9Uld7W-E,0,1
+14,5,Big-O analysis with examples,BgLTDT03QtU,0,2
+15,5,Recursion and recurrence intuition,RSe8jmTFAxE,0,3
+16,6,Binary search and search variants,RdIolKon3FM,0,1
+17,6,Sorting algorithms and trade-offs,Vca808JTbI8,0,2
+18,6,Two pointers and sliding window,9kdHxplyl5I,0,3
+19,7,Tree traversal and binary search trees,4s1Tcvm00pA,0,1
+20,7,BFS and DFS on graphs,pcKY4hjDrxk,0,2
+21,7,Shortest paths and topological sorting,3tkcfvCNtM8,0,3
+22,8,Greedy algorithms,ARvQcqJ_-NY,0,1
+23,8,Dynamic programming patterns,sWnBVPRA0yQ,0,2
+24,8,Backtracking and complexity analysis,Ak-fxEwAR14,0,3
+25,9,Inventory and ad-hoc commands,jUyRL6z4d3k,0,1
+26,9,"YAML, playbooks, and tasks",p9bda0-TIRc,0,2
+27,9,"Variables, facts, and conditionals",HaLiQIpgz1E,0,3
+28,10,Roles and directory structure,eK_mEHG20PA,0,1
+29,10,Templates and handlers,xWusPNl7G24,0,2
+30,10,"Loops, filters, and lookups",667VmSyaOdo,0,3
+31,11,Manage Linux users and packages,b-9j2jiCOEA,0,1
+32,11,Configure services and application deployments,LVJzjKwQpPc,0,2
+33,11,Secrets with Ansible Vault,VDpun2dpYSw,0,3
+34,12,Idempotence and error handling,XAccGbtl3Z8,0,1
+35,12,Testing playbooks and linting,p9bda0-TIRc,0,2
+36,12,CI integration and production practices,scEDHsr3APg,0,3
+37,13,"HTTP methods, status codes, and headers",XULQYxBhti8,0,1
+38,13,Resource modeling and URI design,SBeG6cl8BlA,0,2
+39,13,JSON payloads and content negotiation,RfTWCRs9ZdU,0,3
+40,14,OpenAPI and Swagger documentation,7MS1Z_1c5CU,0,1
+41,14,Validation and consistent error responses,B5XSpX7cxcY,0,2
+42,14,"Pagination, filtering, and sorting",I2ZBxcFQw5I,0,3
+43,15,Authentication versus authorization,GcVtElYa17s,0,1
+44,15,Rate limiting and API security,FsB_nRGdeLs,0,2
+45,15,"Retries, timeouts, and idempotency",WUbIANQuz0s,0,3
+46,16,Unit and integration testing for APIs,7dgQRVqF1N0,0,1
+47,16,Mocking and contract testing,#NAME?,0,2
+48,16,"Versioning, monitoring, and deployment",kLKBcPonMYw,0,3
+49,17,AI versus machine learning versus deep learning,qYNweeDHiyU,0,1
+50,17,"Search, planning, and knowledge representation",Gx5qPyUGRW8,0,2
+51,17,"Evaluation, bias, and responsible AI",8Ra5L1aQ5YM,0,3
+52,18,Large language model fundamentals,LPZh9BOjkQs,0,1
+53,18,Prompt design and structured outputs,fuMKrKlaku4,0,2
+54,18,Embeddings and semantic search,sNa_uiqSlJo,0,3
+55,19,Retrieval-augmented generation architecture,63B-3rqRFbQ,0,1
+56,19,Tool calling and workflow orchestration,Fanndh77I7w,0,2
+57,19,"Guardrails, privacy, and evaluation",ruiLq0OzjkI,0,3
+58,20,AI application testing,88ujpRc0cmg,0,1
+59,20,"Latency, cost, and observability",lJ4NEMNBeS4,0,2
+60,20,"Safety, governance, and human review",aKAcmITT-_4,0,3
+61,21,Perceptrons and neural network layers,OFbnpY_k7js,0,1
+62,21,Forward propagation and loss functions,99CcviQchd8,0,2
+63,21,Backpropagation and gradient descent,odlgtjXduVg,0,3
+64,22,"Optimizers, learning rates, and batch sizes",KSdITanmLqg,0,1
+65,22,"Regularization, dropout, and normalization",XmLYl17DbbA,0,2
+66,22,Overfitting and validation strategies,o3DztvnfAJg,0,3
+67,23,Convolutional neural networks,QzY57FaENXg,0,1
+68,23,Sequence models and attention,Is-1zHabOq8,0,2
+69,23,Transformers and transfer learning,ZXiruGOCn9s,0,3
+70,24,Prepare datasets and augmentation,KHMHOieuJuw,0,1
+71,24,Fine-tune a pretrained model,V1-Hm2rNkik,0,2
+72,24,"Evaluate, export, and deploy a model",vA0C0k72-b4,0,3
+73,25,"Regions, availability zones, and IAM",Kv3b48fKcUY,0,1
+74,25,"EC2, AMIs, and security groups",1xpGkAHUadw,0,2
+75,25,S3 storage classes and bucket policies,kFeplA2bubM,0,3
+76,26,"VPC, subnets, routes, and gateways",43tIX7901Gs,0,1
+77,26,RDS and managed databases,rM_c7K0-tC0,0,2
+78,26,Load balancers and Auto Scaling,nHnSKgyftAw,0,3
+79,27,Lambda and event-driven design,O2j8k7j9mLM,0,1
+80,27,API Gateway and serverless APIs,jcibXVFiFek,0,2
+81,27,ECS or EKS deployment fundamentals,nnIFkEOzNp4,0,3
+82,28,"CloudWatch logs, metrics, and alarms",dQPXBohP0hw,0,1
+83,28,Cost management and tagging,2Vx7V17zbmk,0,2
+84,28,"Backup, resilience, and least privilege",GKCpvhxcdmA,0,3
+85,29,"Subscriptions, resource groups, and regions",2dFH_zNkckc,0,1
+86,29,Microsoft Entra ID and RBAC,0qZzcK1mHwA,0,2
+87,29,Virtual machines and storage accounts,sI2ahWX8RH8,0,3
+88,30,"Virtual networks, subnets, and NSGs",44tAS1slRSg,0,1
+89,30,App Service deployment,4BwyqmRTrx8,0,2
+90,30,Azure SQL and managed data services,1SVTd-8YN-c,0,3
+91,31,Azure CLI and PowerShell basics,_ESPvK022TI,0,1
+92,31,Bicep or ARM templates,pHZDkJxd-wE,0,2
+93,31,Azure DevOps deployment pipelines,4BibQ69MD8c,0,3
+94,32,Azure Monitor and Log Analytics,2tSLfd02VLc,0,1
+95,32,Key Vault and managed identities,f5-y3kMlSOw,0,2
+96,32,Cost governance and resilience,0RkDh05ZNeE,0,3
+97,33,"Shell navigation, variables, and quoting",cQepf9fY6cE,0,1
+98,33,"Pipes, redirection, and exit codes",#NAME?,0,2
+99,33,Conditions and loops,89tgwKTo-rE,0,3
+100,34,Functions and positional arguments,0d6b6fFuCkE,0,1
+101,34,"Arrays, strings, and parameter expansion",Bzi7pa7y15M,0,2
+102,34,Reading files and processing text,EaHFhms_Shw,0,3
+103,35,"grep, sed, awk, and sort",qPJeh4gTFJU,0,1
+104,35,"Find, xargs, and file permissions",LnKoncbQBsM,0,2
+105,35,Scheduling jobs with cron,v952m13p-b4,0,3
+106,36,Strict mode and error handling,cFTFtuEQ-10,0,1
+107,36,Logging and input validation,In0nB0ABaUk,0,2
+108,36,Testing and debugging shell scripts,Yw5qLN5bKPg,0,3
+109,37,"Volume, velocity, variety, and data architectures",bAyrObl7TYE,0,1
+110,37,Batch versus stream processing,dVl-pbrnhqs,0,2
+111,37,Distributed storage and compute,rSfj0hTwNGk,0,3
+112,38,Hadoop HDFS and YARN concepts,aReuLtY0YMI,0,1
+113,38,Apache Spark DataFrames and transformations,v_uodKAywXA,0,2
+114,38,"Partitioning, shuffling, and optimization",q1LtBU_ca20,0,3
+115,39,"Kafka topics, brokers, and consumer groups",#NAME?,0,1
+116,39,Stream processing and event time,aAGurHYs6ik,0,2
+117,39,Data lake and lakehouse patterns,yRerKDM1h74,0,3
+118,40,Orchestration and data quality,kVB1RF0sOJA,0,1
+119,40,Monitoring and failure recovery,OmASCUJEVy8,0,2
+120,40,"Security, governance, and cost optimization",1B67EzJCCT8,0,3
+121,41,How ChatGPT and language models work,LPZh9BOjkQs,0,1
+122,41,Writing clear prompts with context and constraints,TmBoOXoA6iA,0,2
+123,41,Iterative prompting and output verification,aipzVvX4Gr0,0,3
+124,42,Summarizing and extracting structured information,as7xe8UQEr4,0,1
+125,42,"Brainstorming, drafting, and editing",VE8hxwa_UmQ,0,2
+126,42,Working with files and data responsibly,aequTxAvQq4,0,3
+127,43,Few-shot examples and prompt decomposition,V1YG7WpHosE,0,1
+128,43,Structured outputs and reusable prompt templates,kQbkDKorTro,0,2
+129,43,Evaluating hallucinations and factual accuracy,nWJC6a72uHg,0,3
+130,44,Privacy and sensitive data handling,N8xEgSe5RwE,0,1
+131,44,"Bias, limitations, and human review",wEwGBIr_RIw,0,2
+132,44,Building repeatable AI-assisted workflows,wJHZGHp1spo,0,3
+133,45,Continuous integration and delivery concepts,scEDHsr3APg,0,1
+134,45,"Branching, pull requests, and build triggers",oa1wXWeH1IQ,0,2
+135,45,Build artifacts and versioning,KQjU_80-7JI,0,3
+136,46,Build and test stages,QEw0lGxqzBY,0,1
+137,46,Environment variables and secret management,IolxqkL7cD8,0,2
+138,46,Caching dependencies and artifacts,T7YQTwp_ndw,0,3
+139,47,Deployments to staging and production,J9JbzsufemE,0,1
+140,47,Blue-green and canary releases,0QhUhrWGB9k,0,2
+141,47,Rollback and database migration strategies,cw5K2O4AHJc,0,3
+142,48,Automated test gates and code quality,osbsLDjRu1g,0,1
+143,48,Pipeline security and least privilege,4FLQS1UEiUM,0,2
+144,48,Pipeline metrics and troubleshooting,mKNZdzGmZwg,0,3
+145,49,"IaaS, PaaS, and SaaS models",9CVBohl6w0Q,0,1
+146,49,"Regions, zones, and shared responsibility",0hlZvybbaGk,0,2
+147,49,"Public, private, and hybrid cloud",1BMO7YkwR6Y,0,3
+148,50,"Compute, storage, and managed databases",wR0jg0eQsZA,0,1
+149,50,Virtual networking and load balancing,sCR3SAVdyCc,0,2
+150,50,Resilience and disaster recovery,OmASCUJEVy8,0,3
+151,51,Identity and access management,o-CJ8ozJ3Jk,0,1
+152,51,"Encryption, secrets, and network controls",6-JjHa-qLPk,0,2
+153,51,"Budgets, tagging, and policy",U_LPEkYAyBs,0,3
+154,52,Infrastructure as code fundamentals,POPP2WTJ8es,0,1
+155,52,CI/CD for cloud applications,MncTfY22Phg,0,2
+156,52,Observability and cost optimization,OKYJCHHSWb4,0,3
+157,53,Business questions and analytical thinking,npHOE0bsvJU,0,1
+158,53,"Data types, quality, and profiling",HtaYjVwW-Mo,0,2
+159,53,Descriptive and diagnostic analytics,vdIldcU8XMU,0,3
+160,54,SQL for analytical queries,Ww71knvhQ-s,0,1
+161,54,Spreadsheet analysis and pivot tables,dvbLrwD2SpA,0,2
+162,54,Python or pandas for analysis,CmorAWRsCAw,0,3
+163,55,Choosing effective charts,o7F-tbBl_hA,0,1
+164,55,Summary statistics and distributions,xNCUpuJB8LI,0,2
+165,55,"Correlation, sampling, and uncertainty",St4YRTHeg8I,0,3
+166,56,KPI design and metric definitions,zIwCtA3iU1I,0,1
+167,56,Dashboard storytelling,H79S8YDuYUU,0,2
+168,56,Communicating recommendations and caveats,cPajChiAZPU,0,3
+169,57,Common data quality problems,J0VQp8CzSdg,0,1
+170,57,Profiling missing values and duplicates,5GoHCvKWs60,0,2
+171,57,Defining validation rules,PRg9-ylT048,0,3
+172,58,"Trim, normalize, and standardize text",hHtSP5S-u4I,0,1
+173,58,Parse dates and normalize categories,F0EIZKf3ats,0,2
+174,58,Deduplicate records safely,Cs25eNVwKWw,0,3
+175,59,Pandas missing-value strategies,uDr67HBIPz8,0,1
+176,59,Outlier detection and treatment,A3gClkblXK8,0,2
+177,59,Type conversion and schema validation,CPk8pffKV64,0,3
+178,60,Build reusable cleaning pipelines,Vlt2JH70YDs,0,1
+179,60,Data quality tests and anomaly checks,3Jzj8L1JxcQ,0,2
+180,60,Document transformations and audit changes,b_UWaEPQrgc,0,3
+181,61,Data science workflow and problem framing,dTG7FfYSAQ4,0,1
+182,61,"Python, notebooks, and reproducible environments",wQn362vcZ90,0,2
+183,61,Exploratory data analysis,#NAME?,0,3
+184,62,Probability and descriptive statistics,oHDJ3VvGbUQ,0,1
+185,62,"Sampling, confidence intervals, and hypothesis tests",DlwOTOydeyk,0,2
+186,62,Feature engineering and data leakage,sluoVhT0ehg,0,3
+187,63,Regression and classification basics,cHT-qLnRm0E,0,1
+188,63,Model validation and cross-validation,fSytzGwwBVw,0,2
+189,63,"Metrics, baselines, and model selection",LbX4X71-TFI,0,3
+190,64,End-to-end notebook project,U6ZUKWdfSLY,0,1
+191,64,Visualize and explain findings,K2E8xcsnIZQ,0,2
+192,64,"Reproducibility, ethics, and deployment overview",sZgFPG8Yhic,0,3
+193,65,Database models and relational concepts,Q45sr5p_NmQ,0,1
+194,65,"Keys, constraints, and relationships",_UZLrD_R0T4,0,2
+195,65,ER diagrams and schema design,xsg9BDiwiJE,0,3
+196,66,"DDL, DML, and joins",oc2-dFC8CME,0,1
+197,66,Transactions and ACID properties,#NAME?,0,2
+198,66,Isolation levels and concurrency anomalies,qsHwjTh5BSI,0,3
+199,67,Indexes and query execution plans,VcA92fe1Erw,0,1
+200,67,Normalization and denormalization,,0,2
+201,67,"Backup, recovery, and replication concepts",iRqAxTm9EVw,0,3
+202,68,"Views, stored routines, and triggers",vLLkNI-vkV8,0,1
+203,68,Partitioning and scaling patterns,A2y3EmVc8nU,0,2
+204,68,"Security, access control, and auditing",u5h2RFXh7OA,0,3
+205,69,"Domain, subdomains, and ubiquitous language",OJNh4byblYI,0,1
+206,69,"Entities, value objects, and aggregates",UEtmOW8uZZY,0,2
+207,69,Repositories and domain services,hyc-7w3pee8,0,3
+208,70,Bounded contexts and context maps,8SPVfacnFvM,0,1
+209,70,Domain events and invariants,BimfDeDV4yU,0,2
+210,70,Strategic versus tactical design,P3gKf4Nafaw,0,3
+211,71,Application services and domain boundaries,o-ym035R1eY,0,1
+212,71,Integrating bounded contexts,NvBsEnDgA4o,0,2
+213,71,DDD with microservices,oB5ctmEwzG8,0,3
+214,72,Event storming workshop,LM8OhpFvwpM,0,1
+215,72,Refactoring an anemic domain model,6gwIDiUk2h4,0,2
+216,72,Testing domain behavior and trade-offs,COFgY0k0hNw,0,3
+217,73,SOLID principles and design trade-offs,kF7rQmSRlq0,0,1
+218,73,Creational patterns and object construction,OuNOyFg942M,0,2
+219,73,"Factory, Builder, and Singleton",OuNOyFg942M,0,3
+220,74,Adapter and Facade,FV3x69rpwm0,0,1
+221,74,Decorator and Proxy,yNzxXZfkLUA,0,2
+222,74,Composite and Bridge,jFCEpTNszRk,0,3
+223,75,Strategy and Template Method,ybS_d1C_dXE,0,1
+224,75,Observer and Command,Jpmp4GY8r3Q,0,2
+225,75,"State, Chain of Responsibility, and Mediator",SYulyXp5zKs,0,3
+226,76,Recognize overengineering and code smells,KGsnhdcBvd0,0,1
+227,76,Choose patterns from real requirements,aiuM4XBzUv4,0,2
+228,76,Refactor and test a small application,zjyULyIKgMI,0,3
+229,77,"Culture, feedback loops, and value streams",oiCHUWxLD44,0,1
+230,77,"Linux, networking, and scripting essentials",aDs2iAiv2ug,0,2
+231,77,Git workflows and collaboration,GQQqf-C2ha4,0,3
+232,78,CI pipelines and automated tests,nvLAB8b3kI8,0,1
+233,78,Artifact repositories and versioning,KQjU_80-7JI,0,2
+234,78,Deployment strategies and rollback,0QhUhrWGB9k,0,3
+235,79,Infrastructure as code concepts,POPP2WTJ8es,0,1
+236,79,Docker image and container workflows,C-bX86AgyiA,0,2
+237,79,Kubernetes deployment fundamentals,TlHvYWVUZyc,0,3
+238,80,"Monitoring, logs, and alerting",2tSLfd02VLc,0,1
+239,80,"SRE, SLIs, SLOs, and error budgets",vK88U8BOdE8,0,2
+240,80,DevSecOps and incident postmortems,nrhxNNH5lt0,0,3
+241,81,"Project setup, apps, and URL routing",RPvxtYNQFec,0,1
+242,81,"Views, templates, and static files",5niQ2A3RZa8,0,2
+243,81,Models and Django ORM,7E1M1W9o7PA,0,3
+244,82,Migrations and querysets,69YkZqZgz9s,0,1
+245,82,"Forms, validation, and file uploads",AExumWjfbyo,0,2
+246,82,Admin customization,r2dooIwHtcA,0,3
+247,83,"Authentication, permissions, and sessions",tclUzl4UmM8,0,1
+248,83,Build REST APIs with Django REST Framework,izgLkMyOWGc,0,2
+249,83,"CSRF, XSS, and secure configuration",8QDORHQvdu8,0,3
+250,84,Unit tests and request tests,XVFqOFKGeGM,0,1
+251,84,"Settings, environment variables, and logging",ADh_OFBfdEE,0,2
+252,84,Deploy with a production WSGI/ASGI server,LtpJup6vcS4,0,3
+253,85,"Images, containers, and registries",_ZzjkglIS0s,0,1
+254,85,Dockerfile layers and build context,DdWB413BCgQ,0,2
+255,85,"Ports, volumes, and networks",g2fT-g9PX9o,0,3
+256,86,Multi-stage builds and smaller images,yyJrZgoNal0,0,1
+257,86,Docker Compose for multi-service apps,DM65_JyGxCo,0,2
+258,86,Environment configuration and secrets,FAnQTgr04mU,0,3
+259,87,"Health checks, logs, and resource limits",zVwNcLqzBpU,0,1
+260,87,Image scanning and non-root containers,sXfaogNlc7Y,0,2
+261,87,Persistent storage and backups,rJbMUY5xhoY,0,3
+262,88,CI builds and image tagging,qEIu-nb-Yc0,0,1
+263,88,Deploy containers to a host or platform,DQdB7wFEygo,0,2
+264,88,Troubleshoot networking and startup issues,vgisbCjtHz4,0,3
+265,89,"Arrays, strings, and complexity",3_x_Fb31NLE,0,1
+266,89,"Linked lists, stacks, and queues",N6dOwBde7-M,0,2
+267,89,Hash maps and sets,y11XNXi9dgs,0,3
+268,90,Binary trees and BST operations,cySVml6e_Fc,0,1
+269,90,Heaps and priority queues,HqPJF2L5h9U,0,2
+270,90,Graph representations and traversal,5aqhqi0ZgdM,0,3
+271,91,Two pointers and sliding window,9kdHxplyl5I,0,1
+272,91,Binary search and sorting,ndmhR1MLdJ8,0,2
+273,91,Recursion and backtracking,p9m2LHBW81M,0,3
+274,92,Greedy algorithms,ARvQcqJ_-NY,0,1
+275,92,Dynamic programming,FfXoiwwnxFw,0,2
+276,92,Graph shortest paths and interview practice,bZkzH5x0SKU,0,3
+277,93,"SMTP, IMAP, and POP3",cjPVlxmf_Vk,0,1
+278,93,"Email headers, MIME, and attachments",tm8TlwpySnw,0,2
+279,93,"DNS, MX records, and mail flow",sdBkf9ZpVmw,0,3
+280,94,"SPF, DKIM, and DMARC",c9fLp5uIxp8,0,1
+281,94,"Bounces, reputation, and spam filtering",Eyd97CTTQjg,0,2
+282,94,Transactional versus marketing email,SImvZ5Fi-_Q,0,3
+283,95,Send email from an application,yNUT7gyUxBg,0,1
+284,95,"Templates, variables, and localization",Oo0-r_YhoJs,0,2
+285,95,"Queues, retries, and idempotency",cCpHgD6SP_Y,0,3
+286,96,Phishing and spoofing defenses,nSGQkE67jcg,0,1
+287,96,Protecting personal data and unsubscribe handling,vTWywg4DVpg,0,2
+288,96,Monitor delivery and troubleshoot failures,XaVFhpPkurQ,0,3
+289,97,"Workbooks, tables, references, and formatting",raaqR0cWF54,0,1
+290,97,Essential formulas and relative versus absolute references,FRu48zy-Djk,0,2
+291,97,"Sort, filter, and data validation",QANWC01mUM4,0,3
+292,98,"IF, SUMIFS, COUNTIFS, and lookup functions",YqF62MDY7ts,0,1
+293,98,Text and date functions,Rj2LaXLaP7k,0,2
+294,98,Dynamic arrays and error handling,HOmVlf6Bm2g,0,3
+295,99,Pivot tables and pivot charts,aofsdpjvK7w,0,1
+296,99,Charts and conditional formatting,Jp29JYGq5Hw,0,2
+297,99,Dashboard layout and slicers,5TkRnGdC1NM,0,3
+298,100,Power Query import and transformations,yE8sLnywPAg,0,1
+299,100,What-if analysis and goal seek,91I70Xdjglc,0,2
+300,100,Reusable templates and workbook quality checks,kVqs8sRw-Xw,0,3
+301,101,"Projects, billing, IAM, and service accounts",_eUVNcVmpwY,0,1
+302,101,Compute Engine and Cloud Storage,zBBevSjX9E8,0,2
+303,101,"Regions, zones, and VPC networks",43tIX7901Gs,0,3
+304,102,Cloud Run and serverless containers,qaxwf3BIZIQ,0,1
+305,102,Cloud SQL and managed databases,NGkO5YMQctU,0,2
+306,102,BigQuery datasets and analytical SQL,17oYw-y4WG8,0,3
+307,103,gcloud CLI and Cloud Shell,fiN2ufcy4ps,0,1
+308,103,Terraform for Google Cloud,ILzruzhoVB4,0,2
+309,103,Build and deploy with Cloud Build,RBpDLP9ZoCk,0,3
+310,104,Cloud Logging and Monitoring,y3ooH7ps93E,0,1
+311,104,Secret Manager and least privilege,ItzzgWe7elE,0,2
+312,104,"Budgets, reliability, and cost controls",BILh4AHeTDY,0,3
+313,105,"Repositories, commits, and working tree",s4BTvj1ZVLM,0,1
+314,105,"Stage, commit, diff, and log",Eqw2LkGodDw,0,2
+315,105,Branches and merge basics,0chZFIZLR_0,0,3
+316,106,"Remote repositories, fetch, pull, and push",cDrprvgdZXk,0,1
+317,106,Merge conflicts and resolution,DloR0BOGNU0,0,2
+318,106,Pull request workflows,24bJBqjjvBs,0,3
+319,107,Rebase versus merge,0chZFIZLR_0,0,1
+320,107,"Cherry-pick, revert, and reset",ezOC7e76osA,0,2
+321,107,"Stash, reflog, and recovering lost work",fyhYSl-ACPc,0,3
+322,108,Interactive rebase and commit cleanup,42392W7SgnE,0,1
+323,108,Tags and release workflows,m0fHxINal58,0,2
+324,108,Git hooks and repository hygiene,1OFiiPretCM,0,3
+325,109,"Repositories, issues, and pull requests",LuL60r-XnL4,0,1
+326,109,"Branches, reviews, and protected branches",Qq8BD_XcWDQ,0,2
+327,109,"README files, Markdown, and project boards",5qFsCkpebwE,0,3
+328,110,Workflow YAML and event triggers,8KD_woR50Pk,0,1
+329,110,"Jobs, runners, and reusable workflows",zc19mR3O4a4,0,2
+330,110,"Secrets, permissions, and environments",ItzzgWe7elE,0,3
+331,111,Code owners and review rules,HWRzJKO7C0o,0,1
+332,111,Dependabot and secret scanning,LO5u45ZUUU4,0,2
+333,111,Release tags and GitHub Packages,D3W66tfYGuc,0,3
+334,112,Publish a release and changelog,zbs3JIyaivw,0,1
+335,112,Automate tests and deployment,YLtlz88zrLg,0,2
+336,112,Contributing guidelines and repository maintenance,8iQCuiTN9IQ,0,3
+337,113,Understand role requirements and job descriptions,cY4X9gA65Kc,0,1
+338,113,Build concise STAR behavioral stories,uQEuo7woEEk,0,2
+339,113,Explain projects and technical decisions,MnswOahq9bg,0,3
+340,114,Clarify requirements and edge cases,MYrKrJrDTSM,0,1
+341,114,Use complexity analysis and problem-solving patterns,xo7XrRVxH8Y,0,2
+342,114,Communicate solutions and test cases,GJOj4f20_Zg,0,3
+343,115,Core language and database review,6Iu45VZGQDk,0,1
+344,115,API and system design fundamentals,DQ57zYedMdQ,0,2
+345,115,Debugging and code review exercises,J8uAiZJMfzQ,0,3
+346,116,Mock interviews and feedback loops,jMH0lePzFQ0,0,1
+347,116,Questions to ask interviewers,jzqOLoorgOs,0,2
+348,116,Offer evaluation and professional follow-up,IpLGcV-UNig,0,3
+349,117,"JDK, JVM, compilation, and program structure",s7UgQ7_1KQY,0,1
+350,117,"Types, operators, control flow, and methods",50Pb27JoUrw,0,2
+351,117,"Classes, objects, and encapsulation",pTB0EiLXUC8,0,3
+352,118,"Inheritance, polymorphism, and interfaces",PsheurVus04,0,1
+353,118,"Exceptions, generics, and collections",K1iu1kXkVoA,0,2
+354,118,"Strings, dates, and I/O",x_3FKTDkGT8,0,3
+355,119,"Threads, executors, and synchronization",cEhuoI9x7F4,0,1
+356,119,"Streams, lambdas, and Optional",QRwG9X9l6xI,0,2
+357,119,"JVM memory, garbage collection, and profiling",vz6vSZRuS2M,0,3
+358,120,Maven or Gradle project structure,n1V8AtPPqZA,0,1
+359,120,Unit testing with JUnit,vZm0lHciFsQ,0,2
+360,120,Build a database-backed Java application,7v2OnUti2eM,0,3
+361,121,Lambda expressions and functional interfaces,4HC_WyBSDGA,0,1
+362,121,Method references and constructor references,vBZCXuJZe9M,0,2
+363,121,Default and static interface methods,CIBUxhSq0Ew,0,3
+364,122,Stream creation and intermediate operations,2Iui2Ym-C3g,0,1
+365,122,"Filtering, mapping, grouping, and reduction",FH-FmcjEKnc,0,2
+366,122,Collectors and parallel stream trade-offs,YQBjlmgZwhU,0,3
+367,123,"LocalDate, LocalTime, and ZonedDateTime",KcIzqPYM0Jg,0,1
+368,123,Optional and null-safe API design,_gQaygjm_hg,0,2
+369,123,Functional composition with Predicate and Function,7CRZGBFfJHY,0,3
+370,124,Refactor loops into readable stream pipelines,uy1ERtDTaik,0,1
+371,124,Asynchronous programming with CompletableFuture,GJ5Tx43q6KM,0,2
+372,124,Testing and performance considerations,#NAME?,0,3
+373,125,Java Platform Module System basics,3KP5YiKLkeo,0,1
+374,125,module-info.java and module declarations,XrbWuvPm29E,0,2
+375,125,Classpath versus module path,n6N2bsqJUHU,0,3
+376,126,JShell for interactive Java,jziVaht480w,0,1
+377,126,Private interface methods,YApXI1dR2j0,0,2
+378,126,Collection factory methods,jDCH63zD_sY,0,3
+379,127,"takeWhile, dropWhile, and iterate",feyVR-reats,0,1
+380,127,Stream ofNullable,B-U-ItdMUVw,0,2
+381,127,Optional ifPresentOrElse and or,vKVzRbsMnTQ,0,3
+382,128,JDK 9 migration considerations,gtcTftvj0d0,0,1
+383,128,Multi-release JAR overview,BSswAVN-r6M,0,2
+384,128,Practice modularizing a small application,qX6zmKY4KP0,0,3
+385,129,Records and concise data carriers,EQ3tJB-2TAI,0,1
+386,129,Sealed classes and controlled hierarchies,glvYULuaf-k,0,2
+387,129,Pattern matching for instanceof and switch,UZLeJ-Nd0X8,0,3
+388,130,Text blocks and readable multiline strings,DTz66306YIo,0,1
+389,130,Switch expressions,AZb1wLIQ1R4,0,2
+390,130,Record patterns and pattern matching,9F7KHOVIYVc,0,3
+391,131,Virtual threads and when to use them,0NtIcbSsjBc,0,1
+392,131,Structured concurrency concepts,d7pLQ3WReO8,0,2
+393,131,JVM diagnostics and garbage collection updates,d2u8OIEg-pA,0,3
+394,132,Use the current LTS JDK safely,i58lFeyFd5U,0,1
+395,132,Preview features versus finalized features,gwKecEErdwg,0,2
+396,132,"Upgrade planning, compatibility, and testing",ivVKFyBw8fU,0,3
+397,133,"Values, variables, and operators",_NOGsr_5Muc,0,1
+398,133,"Functions, scope, and closures",vKJpN5FAeF4,0,2
+399,133,"Objects, arrays, and prototypes",wstwjQ1yqWQ,0,3
+400,134,DOM selection and event handling,nhYkXcIc30w,0,1
+401,134,"Forms, validation, and browser APIs",vkRrCRJrulc,0,2
+402,134,Modules and package tooling,TgbRDGaddwU,0,3
+403,135,Promises and async/await,li7FzDHYZpc,0,1
+404,135,Fetch API and error handling,XHokFQeQ6Lk,0,2
+405,135,Event loop and concurrency model,eiC58R16hb8,0,3
+406,136,ES modules and code organization,fl-_6d18DN0,0,1
+407,136,Unit testing and debugging,x7e-HfifFoY,0,2
+408,136,"Performance, security, and accessibility basics",VyWRmepESoQ,0,3
+409,137,Install Jenkins and configure agents,Se7JtzFVZGE,0,1
+410,137,Freestyle jobs and build parameters,u2TpnY1Mmts,0,2
+411,137,Credentials and permissions,gz9Q2oIGje0,0,3
+412,138,Declarative Jenkinsfile syntax,7KCS70sCoK0,0,1
+413,138,"Stages, steps, and post actions",qKPHNWEV5_o,0,2
+414,138,Shared libraries and reusable pipelines,eAMTy15sfTs,0,3
+415,139,Build and test a Java application,yngPlYm23YU,0,1
+416,139,Artifact publishing and deployment,pMvNy8Kujz4,0,2
+417,139,Webhook triggers and multibranch pipelines,fo36b23cpIU,0,3
+418,140,"Plugins, backups, and upgrades",xyxvo30geAM,0,1
+419,140,Secrets handling and least privilege,ItzzgWe7elE,0,2
+420,140,Pipeline troubleshooting and monitoring,H1iIL7FuV5Q,0,3
+421,141,"Objects, arrays, values, and syntax",9dr2mHYYoug,0,1
+422,141,"Strings, numbers, booleans, and null",JnBl1hkPMdA,0,2
+423,141,Valid JSON and common parsing errors,OsMYKBc9Dfg,0,3
+424,142,Request and response payload design,rZNdo9UjF94,0,1
+425,142,Nested objects and collection modeling,b8gwYQ_V4K4,0,2
+426,142,JSON Schema validation,o3ViNZpTaKE,0,3
+427,143,Parse and generate JSON in Java or Python,nKtyWfqNmr8,0,1
+428,143,"Date, number, and Unicode handling",YBmfBemz0Zc,0,2
+429,143,Serialization compatibility and versioning,F89sNgG9dRY,0,3
+430,144,Validate untrusted input,vF9YBR7PtzI,0,1
+431,144,Avoid type confusion and oversized payloads,SIAuhzQqAow,0,2
+432,144,Test and troubleshoot JSON integrations,8QbncQ3Hr-0,0,3
+433,145,Cluster architecture and core objects,ynSzx2tiryk,0,1
+434,145,"Pods, Deployments, and ReplicaSets",iC-WxZGhFqs,0,2
+435,145,Services and service discovery,ecuEkmFs5Vk,0,3
+436,146,ConfigMaps and Secrets,f-DqMTxs5z8,0,1
+437,146,"Probes, requests, and limits",Q-mk6EZVX_Q,0,2
+438,146,Namespaces and resource quotas,OaZcXRJuOo8,0,3
+439,147,Ingress and Gateway concepts,NPFbYpb0I7w,0,1
+440,147,PersistentVolumes and PersistentVolumeClaims,0swOh5C3OVM,0,2
+441,147,StatefulSets and storage patterns,pPQKAR1pA9U,0,3
+442,148,Rolling updates and rollbacks,GqC7uqNLgx0,0,1
+443,148,RBAC and network policies,o7-H8QWUPqI,0,2
+444,148,Troubleshooting pods and cluster workloads,xt9_il3IDSE,0,3
+445,149,"Control plane, nodes, and cluster architecture",TlHvYWVUZyc,0,1
+446,149,"Pods, Deployments, and ReplicaSets",lVKLkyuRWCY,0,2
+447,149,Services and service discovery,ecuEkmFs5Vk,0,3
+448,150,ConfigMaps and Secrets,f-DqMTxs5z8,0,1
+449,150,"Readiness, liveness, and startup probes",aTlQBofihJQ,0,2
+450,150,"Requests, limits, and autoscaling",fwfkSxb1T-s,0,3
+451,151,Ingress and Gateway API concepts,EG27AzlHolU,0,1
+452,151,Persistent volumes and storage classes,0swOh5C3OVM,0,2
+453,151,Network policies and DNS,mpQZVYPuDGU,0,3
+454,152,Helm charts and release management,#NAME?,0,1
+455,152,"RBAC, policies, and security context",o7-H8QWUPqI,0,2
+456,152,Troubleshooting and observability,vY61h6cSkVA,0,3
+457,153,Read constraints and identify edge cases,qMAUlbdIXTo,0,1
+458,153,Complexity analysis and solution planning,pULw1Fpru0E,0,2
+459,153,Write clear code and test examples,F14BKKHeAKU,0,3
+460,154,"Arrays, hash maps, and frequency counting",XLbvmMz8Fr8,0,1
+461,154,Two pointers and sliding window,9kdHxplyl5I,0,2
+462,154,Binary search and sorting,ndmhR1MLdJ8,0,3
+463,155,Tree traversal and recursion,Z_NEgBgbRVI,0,1
+464,155,"BFS, DFS, and graph modeling",pcKY4hjDrxk,0,2
+465,155,Heap and top-k problems,6_v6OoxvMOE,0,3
+466,156,Backtracking and combinatorics,p9m2LHBW81M,0,1
+467,156,Dynamic programming and memoization,sWnBVPRA0yQ,0,2
+468,156,Greedy and interval problems,HDHQ8lAWakY,0,3
+469,157,"Filesystem, paths, and core commands",ISJ44S5sZu8,0,1
+470,157,"Users, groups, permissions, and sudo",jwnvKOjmtEA,0,2
+471,157,"Processes, signals, and jobs",LfC6pv8VISk,0,3
+472,158,"Pipes, redirection, and text processing",okWH9stQA6Q,0,1
+473,158,"SSH, DNS, ports, and connectivity tools",ahreTe9Zu-M,0,2
+474,158,Package managers and environment variables,4s7mOZ07tBc,0,3
+475,159,Services and systemd logs,#NAME?,0,1
+476,159,"Disks, filesystems, and disk usage",sp1dcXdO32c,0,2
+477,159,"Cron, backups, and log rotation",lrcQ6wT-VYs,0,3
+478,160,"CPU, memory, and process diagnostics",DKGZlaPlVLY,0,1
+479,160,Firewall basics and SSH hardening,g0Q-BozOaKk,0,2
+480,160,Shell scripting and incident triage,cQepf9fY6cE,0,3
+481,161,"Arrays, strings, and hash maps",RcZsTI5h0kg,0,1
+482,161,"Linked lists, stacks, and queues",N6dOwBde7-M,0,2
+483,161,Binary search and sorting,ndmhR1MLdJ8,0,3
+484,162,"Trees, tries, and heaps",Qf-TDPr0nYw,0,1
+485,162,"Graphs, BFS, and DFS",pcKY4hjDrxk,0,2
+486,162,Dynamic programming and greedy techniques,0BhhiQGDbEA,0,3
+487,163,"Requirements, capacity, and API design",_gQaygjm_hg,0,1
+488,163,"Caching, databases, and partitioning",be6PLMKKSto,0,2
+489,163,"Queues, consistency, and reliability",RWCC4aWMlGw,0,3
+490,164,Behavioral stories and project deep dives,_mn88z3Qa9o,0,1
+491,164,Timed mock interviews and communication,RfFbA5uHqqw,0,2
+492,164,Review mistakes and build a study plan,vW5mvk6NKUA,0,3
+493,165,"Supervised, unsupervised, and reinforcement learning",1FZ0A1QCMWc,0,1
+494,165,"Train, validation, and test splits",dSCFk168vmo,0,2
+495,165,Feature scaling and preprocessing,RmAylEut8Z8,0,3
+496,166,Linear and logistic regression,yIYKR4sgzI8,0,1
+497,166,"Decision trees, random forests, and boosting",uV2gdNt2MLc,0,2
+498,166,Clustering and dimensionality reduction,a7HaIIsrXo0,0,3
+499,167,Classification and regression metrics,pyl6fO4C7h4,0,1
+500,167,Cross-validation and hyperparameter tuning,PK37PqkIOg4,0,2
+501,167,Imbalanced data and leakage,JnlM4yLFNuo,0,3
+502,168,Build a scikit-learn pipeline,xIqX1dqcNbY,0,1
+503,168,Model interpretation and error analysis,9VHG2QgK2yw,0,2
+504,168,"Deployment, monitoring, and drift",cgc3dSEAel0,0,3
+505,169,"Documents, collections, and BSON",QJjxCv_AuRU,0,1
+506,169,CRUD operations and query filters,AKB9l7Ol-Go,0,2
+507,169,"Projection, sorting, and pagination",I2ZBxcFQw5I,0,3
+508,170,Embedding versus referencing,F4A6MpFPwQU,0,1
+509,170,Schema validation and data modeling patterns,jCDBnCiWR5g,0,2
+510,170,Indexes and query explain plans,xXtig5uLQS4,0,3
+511,171,Aggregation pipeline stages,UrU8uXBZkSE,0,1
+512,171,Transactions and consistency,GAe5oB742dw,0,2
+513,171,Connect MongoDB to an application,#NAME?,0,3
+514,172,Replica sets and failover,NxPuX1oZgcA,0,1
+515,172,Sharding and scaling concepts,wXvljefXyEo,0,2
+516,172,"Authentication, backups, and monitoring",dNfk9vHT2qk,0,3
+517,173,Monitoring architecture and installation,Wl8Uq4Btga8,0,1
+518,173,"Hosts, services, and plugins",6KPl-1BPRIU,0,2
+519,173,Configuration files and object definitions,kjGJkLZQIc8,0,3
+520,174,Command definitions and check intervals,rplH55qnVeE,0,1
+521,174,"Thresholds, states, and event handlers",j5fj254ABlY,0,2
+522,174,"Contacts, groups, and notification rules",jPeqB8fyGG4,0,3
+523,175,NRPE and remote checks,52nXfa7tK5E,0,1
+524,175,Service dependencies and templates,O7urT55mzrY,0,2
+525,175,Configuration validation and automation,_wi7Xfo-9FM,0,3
+526,176,Dashboards and alert noise reduction,MfwsDwh4edY,0,1
+527,176,Troubleshoot plugin and connectivity failures,vYjRmmCyCBU,0,2
+528,176,"Security, upgrades, and backup practices",7fXgFISEgxk,0,3
+529,177,OSI and TCP/IP models,3b_TAYtzuho,0,1
+530,177,"IPv4, IPv6, subnetting, and CIDR",OqsXzkXfwRw,0,2
+531,177,"MAC, ARP, switches, and routers",D2PsyaBZo8Y,0,3
+532,178,"DNS, DHCP, and NAT",e6-TaH5bkjo,0,1
+533,178,TCP versus UDP and common ports,uwoD5YsGACg,0,2
+534,178,"HTTP, TLS, and certificates",j9QmMEWmcfo,0,3
+535,179,"ping, traceroute, dig, and curl",vJV-GBZ6PeM,0,1
+536,179,Packet capture fundamentals,2pyEyER9dAU,0,2
+537,179,"Routing, firewall, and latency diagnosis",_IOZ8_cPgu8,0,3
+538,180,VPNs and segmentation,celCfKTO2yY,0,1
+539,180,Firewalls and access control,K4ilFsm2GvA,0,2
+540,180,High availability and network monitoring,HZ--oQNWkGE,0,3
+541,181,App Router and project structure,L0g87N0piT0,0,1
+542,181,"Pages, layouts, and navigation",s2DVOZ62F8w,0,2
+543,181,Server and Client Components,dMCSiA5gzkU,0,3
+544,182,Fetching data and caching,0eG58W4gjR8,0,1
+545,182,"Static, dynamic, and streaming rendering",Dkx5ydvtpCA,0,2
+546,182,Route handlers and server actions,27Uj6BeIDV0,0,3
+547,183,"Forms, validation, and mutations",In0nB0ABaUk,0,1
+548,183,Authentication and authorization patterns,xJA8tP74KD0,0,2
+549,183,"Metadata, images, and SEO",T1VqaxqRiCs,0,3
+550,184,Error boundaries and loading states,__4mwtPU9-Q,0,1
+551,184,Testing and performance optimization,yFtocboN7qQ,0,2
+552,184,Deploy and observe a Next.js application,oiWBiLArBZY,0,3
+553,185,"ndarray, shape, dtype, and creation",2nJeIMHIvD4,0,1
+554,185,"Indexing, slicing, and boolean masks",_d_Ka-ks2a0,0,2
+555,185,Vectorized operations and broadcasting,N3K3WM010Sg,0,3
+556,186,Aggregations and axis behavior,1s5RLZM8oCU,0,1
+557,186,"Reshaping, stacking, and splitting",aIAJRVpXmMc,0,2
+558,186,"Sorting, searching, and unique values",QANWC01mUM4,0,3
+559,187,Matrix operations and linear algebra,p48uw2vFWQs,0,1
+560,187,Random generators and reproducibility,IVA1vjl00iY,0,2
+561,187,Numerical precision and missing values,UMlB-8t5plA,0,3
+562,188,Efficient array transformations,A5bVr7r5BXA,0,1
+563,188,Interoperability with pandas,XJQhGJT7Bh0,0,2
+564,188,Profiling memory and vectorization,AHLkbqcVLvY,0,3
+565,189,OpenShift architecture and projects,vwDezts_aFg,0,1
+566,189,Deploy applications from images and source,zihPR6TeqjY,0,2
+567,189,"Routes, Services, and build configurations",QdGXvomwSz4,0,3
+568,190,"ConfigMaps, Secrets, and environment variables",f-DqMTxs5z8,0,1
+569,190,Persistent storage and volume claims,0swOh5C3OVM,0,2
+570,190,Health checks and resource limits,GIkLpBSGzhI,0,3
+571,191,BuildConfig and ImageStreams concepts,2PAKw5PHyb4,0,1
+572,191,Pipelines and GitOps workflows,f5EpcWp0THw,0,2
+573,191,Security Context Constraints and RBAC,VtIxFh6cO0Q,0,3
+574,192,"Logs, events, and troubleshooting",deuHoI-exYM,0,1
+575,192,Monitoring and scaling workloads,fwfkSxb1T-s,0,2
+576,192,Cluster upgrades and operational practices,Cfznp8jRh7I,0,3
+577,193,"Latency, throughput, and saturation",c9FHf2ahMYQ,0,1
+578,193,Define service-level objectives and baselines,fKh4FtBn2vM,0,2
+579,193,Profiling versus benchmarking,eJbIDdMl27Q,0,3
+580,194,CPU profiling and flame graphs,VEvK0JkPlOY,0,1
+581,194,Memory leaks and allocation analysis,b2AgibUg47k,0,2
+582,194,Thread contention and concurrency profiling,nlJidcX_MHk,0,3
+583,195,Query plans and index optimization,O7AzUDogXsw,0,1
+584,195,Caching and connection pooling,toWx754nHX4,0,2
+585,195,Load testing and bottleneck analysis,o7OmGQWJ5R0,0,3
+586,196,Design representative performance tests,mCGRr0ZdnOw,0,1
+587,196,Compare results and prevent regressions,#NAME?,0,2
+588,196,Capacity planning and production monitoring,dO-jHtzsKWQ,0,3
+589,197,Pipeline stages and dependency graphs,SxU6ypr6m78,0,1
+590,197,Source control triggers and artifacts,_H8_IU1G8G0,0,2
+591,197,Configuration and environment separation,R4StowsGdQo,0,3
+592,198,"Compile, lint, and unit test stages",QnkO4q95o6s,0,1
+593,198,Integration tests and test data,t_Mjw1Lubh0,0,2
+594,198,Artifact storage and caching,oflINMvYbto,0,3
+595,199,Promote artifacts across environments,qWj0UcAYVtY,0,1
+596,199,"Approvals, gates, and rollback",T-TqD31CRgM,0,2
+597,199,Secrets and deployment credentials,BqekRTA6VCs,0,3
+598,200,Parallel execution and reusable templates,RCpzHBUK_wc,0,1
+599,200,Pipeline observability and failure diagnosis,HscxSA7ZQtE,0,2
+600,200,Supply-chain security and audit trails,njm1nZlrR68,0,3
+601,201,Power BI Desktop and data sources,9tF1IrfLflg,0,1
+602,201,Power Query import and transformation,QXzopqpHlSs,0,2
+603,201,Build a first report and visuals,tNLp_JVipoQ,0,3
+604,202,Star schema and relationships,4ePNrdxWtY0,0,1
+605,202,DAX measures versus calculated columns,ePPi1LLX0sA,0,2
+606,202,Filter context and CALCULATE,L5WR-imfyYI,0,3
+607,203,"Slicers, drill-through, and tooltips",QMZvJ4DLrHY,0,1
+608,203,KPI dashboards and storytelling,wZATWjV4scg,0,2
+609,203,Bookmarks and report navigation,xCMqWEvSkAs,0,3
+610,204,Publish to Power BI Service,_3YAB6dNQ18,0,1
+611,204,"Refresh, gateways, and row-level security",hY_OcPRrDoI,0,2
+612,204,Performance optimization and workspace governance,HRYaAl8XWog,0,3
+613,205,"Cmdlets, objects, and pipeline",fyfcsrBxx6g,0,1
+614,205,"Variables, arrays, and hashtables",KEs5UyBJ39g,0,2
+615,205,"Conditions, loops, and functions",89tgwKTo-rE,0,3
+616,206,"Parameters, validation, and help",0-SeBWqm7-Q,0,1
+617,206,"Files, CSV, JSON, and text processing",rxS9GY7ISi0,0,2
+618,206,Error handling and logging,YGqQvzy3TR8,0,3
+619,207,"Processes, services, and event logs",YHc7_-de8Aw,0,1
+620,207,Remote management and sessions,2LXijv0d3Ac,0,2
+621,207,Windows administration and scheduled tasks,DVrWfuKcDyM,0,3
+622,208,Modules and script organization,28z_064N-lc,0,1
+623,208,Pester testing fundamentals,YaslxcopEyU,0,2
+624,208,Secure secrets and production automation,BqekRTA6VCs,0,3
+625,209,"Syntax, variables, types, and operators",_NOGsr_5Muc,0,1
+626,209,"Conditions, loops, and comprehensions",YlY2g2xrl6Q,0,2
+627,209,"Functions, modules, and packages",k4EJbGI80t4,0,3
+628,210,"Classes, dataclasses, and object-oriented design",pTB0EiLXUC8,0,1
+629,210,"Exceptions, files, and context managers",V9FVYF_vFnU,0,2
+630,210,"Iterators, generators, and decorators",Dyu08G2l71c,0,3
+631,211,Virtual environments and dependency management,Y21OR1OPC9A,0,1
+632,211,Testing with pytest and debugging,EgpLj86ZHFQ,0,2
+633,211,"Typing, logging, and code quality",E2qXxoR_VE0,0,3
+634,212,HTTP APIs and JSON processing,#NAME?,0,1
+635,212,Database access and data persistence,GkkcZXF-mD8,0,2
+636,212,"Build, package, and deploy a small project",saiDl2Qacm8,0,3
+637,213,"Components, JSX, and props",wIyHSOugGGw,0,1
+638,213,"State, events, and conditional rendering",VwuwodgrIaU,0,2
+639,213,"Lists, keys, and forms",0sasRxl35_8,0,3
+640,214,useState and useEffect,V9i3cGD-mts,0,1
+641,214,Custom hooks and state sharing,I2Bgi0Qcdvc,0,2
+642,214,Fetch data and handle loading and errors,_r0Fnu5XM8I,0,3
+643,215,Context and reducer patterns,HYKDUF8X3qI,0,1
+644,215,Routing and component composition,VlCRRJxDzQk,0,2
+645,215,"Forms, validation, and accessibility",bRZX9HqxSiE,0,3
+646,216,Testing components and interactions,pbFIneXVUbE,0,1
+647,216,"Performance, memoization, and profiling",FRAL4bP4V3o,0,2
+648,216,Build and deploy a React application,Ey_90l9GaAw,0,3
+649,217,"JSX, components, and props",J0yxuHQhpJU,0,1
+650,217,State updates and event handling,peewECGtPCI,0,2
+651,217,Rendering lists and forms,fkl1Kn_QWCI,0,3
+652,218,"useState, useEffect, and effect cleanup",-4XpG5_Lj_o,0,1
+653,218,Custom hooks and reusable logic,I2Bgi0Qcdvc,0,2
+654,218,"Context, reducers, and state architecture",HYKDUF8X3qI,0,3
+655,219,Routing and nested layouts,h7MTWLv3xvw,0,1
+656,219,API integration and error states,G_HZtL8BpCA,0,2
+657,219,Authentication flows and protected routes,zHZjJDTTHJg,0,3
+658,220,React Testing Library fundamentals,7dTTFW7yACQ,0,1
+659,220,Memoization and render profiling,Qwb-Za6cBws,0,2
+660,220,Accessibility and production build,e2nkq3h1P68,0,3
+661,221,"Resources, representations, and statelessness",yJnSNFlxlAo,0,1
+662,221,HTTP methods and status code semantics,qmpUfWN7hh4,0,2
+663,221,URI design and content negotiation,BfNwfw-z96M,0,3
+664,222,"Pagination, filtering, and sorting",I2ZBxcFQw5I,0,1
+665,222,Validation and error response formats,B5XSpX7cxcY,0,2
+666,222,Versioning and backward compatibility,v2o9Aan09T0,0,3
+667,223,"OAuth 2.0, tokens, and authorization basics",ZV5yTm4pT8g,0,1
+668,223,"Rate limits, retries, and idempotency",tOZQtlyf26Q,0,2
+669,223,"CORS, input validation, and threat modeling",rEnJYNkUde0,0,3
+670,224,OpenAPI specifications,PenvYHJ9Koc,0,1
+671,224,Contract and integration testing,QYCaaNz8emY,0,2
+672,224,Observability and API lifecycle management,TzOxqPCIAPA,0,3
+673,225,Choose a resume structure for your target role,FwcoqUUychs,0,1
+674,225,Write achievement-focused bullet points,jcLYgn9bS2Y,0,2
+675,225,Quantify impact without exaggeration,GJwzzWDL4Co,0,3
+676,226,Present skills and projects clearly,avew5rVAwi0,0,1
+677,226,Showcase experience and technical scope,ZxjlvMBQTck,0,2
+678,226,Avoid common formatting and content mistakes,X25MO1ycP7w,0,3
+679,227,Use role-relevant keywords naturally,j82A5PHn9f8,0,1
+680,227,Tailor the resume to a job description,EMytqW8ZHuQ,0,2
+681,227,ATS-friendly formatting and file formats,2t_etfXD8Yo,0,3
+682,228,Review consistency and proofread,nkAT7uUKQ2U,0,1
+683,228,Align LinkedIn and portfolio,j2YA_TScR-E,0,2
+684,228,Prepare a concise project narrative,LGyYnpYxqvs,0,3
+685,229,"How search engines crawl, index, and rank",y4orcCoWXHE,0,1
+686,229,Search intent and keyword research,zXPZ0L2cOw4,0,2
+687,229,Site structure and internal linking,iZz-Y12thKw,0,3
+688,230,"Titles, descriptions, headings, and content",WA8qcwZswZU,0,1
+689,230,"Canonical URLs, robots.txt, and sitemaps",xW-mi7xnR5w,0,2
+690,230,Core Web Vitals and mobile usability,S9ToWt5lqds,0,3
+691,231,Content briefs and topical coverage,hBMRo_fz2WE,0,1
+692,231,Ethical link earning and digital PR,58eENAElbkM,0,2
+693,231,Structured data and rich results,_NH9ww9OoU4,0,3
+694,232,Google Search Console and analytics,GKrfe2f6ugs,0,1
+695,232,Diagnose indexing and ranking issues,Iqi4_4BMYNM,0,2
+696,232,Measure results and maintain content quality,5gPCAkktuFo,0,3
+697,233,"Shebang, variables, quoting, and expansion",sRki95NbNTI,0,1
+698,233,"Exit status, conditions, and loops",7Y0597cc7Co,0,2
+699,233,Functions and command-line arguments,Up17-azeuyE,0,3
+700,234,"Pipes, redirection, and here-documents",okWH9stQA6Q,0,1
+701,234,"grep, sed, awk, and cut",dv4kmOydWyI,0,2
+702,234,File traversal and safe batch operations,I039A_NkTDo,0,3
+703,235,Input validation and defensive scripting,LyPHCxoKzqQ,0,1
+704,235,"Signals, traps, and cleanup",SzSCsSV77q0,0,2
+705,235,"Logging, retries, and error handling",oJRvjnmNhe4,0,3
+706,236,Cron and scheduled automation,BhxAMi9QYjk,0,1
+707,236,Testing and debugging scripts,mo70km1bZUs,0,2
+708,236,"Security, permissions, and secret handling",BqekRTA6VCs,0,3
+709,237,IoC container and dependency injection,5cRaQqQb14Q,0,1
+710,237,Bean lifecycle and configuration,KxWh70Xr35c,0,2
+711,237,Component scanning and profiles,atYaw5Vbj_0,0,3
+712,238,AOP and cross-cutting concerns,EobKYha3nR0,0,1
+713,238,Validation and exception handling,vXA78rtCeTY,0,2
+714,238,Spring JDBC and transaction management,XL0EROsn5Yc,0,3
+715,239,Spring MVC controllers and request mapping,_3pxf0o82Mk,0,1
+716,239,REST endpoints and validation,DeCi72X35vc,0,2
+717,239,Spring Security fundamentals,sm-8qfMWEV8,0,3
+718,240,Unit and integration tests,pf6Zhm-PDfQ,0,1
+719,240,Configuration properties and externalized config,z8kfFbfGGME,0,2
+720,240,Application architecture and maintainability,sDlCSIDwpDs,0,3
+721,241,"Starters, auto-configuration, and application setup",a06KMY209AA,0,1
+722,241,Configuration properties and profiles,2ilOS2V_j5M,0,2
+723,241,Dependency injection and application structure,lN-ld2cRI9M,0,3
+724,242,"Controllers, DTOs, and validation",WfnBoO5inWQ,0,1
+725,242,Global exception handling and API errors,IdHHwZg3v58,0,2
+726,242,Spring Data JPA and database migrations,GkkcZXF-mD8,0,3
+727,243,Spring Security and JWT concepts,eYCOzPx3ht8,0,1
+728,243,External service calls and resilience,fvwyfbNFNGk,0,2
+729,243,Messaging and asynchronous processing,oUJbuFMyBDk,0,3
+730,244,Testing with JUnit and Testcontainers,qvAlVY59Oxo,0,1
+731,244,"Actuator, metrics, and structured logging",0UkMVPRrwzk,0,2
+732,244,Dockerize and deploy a Spring Boot service,o90_3gDh478,0,3
+733,245,"SELECT, WHERE, ORDER BY, and LIMIT",zgYqUP_PhQo,0,1
+734,245,"Aggregations, GROUP BY, and HAVING",VQf0V6Wwbf4,0,2
+735,245,"INNER, LEFT, and other joins",G3lJAxg1cy8,0,3
+736,246,"INSERT, UPDATE, and DELETE safely",fur4nsLa5VU,0,1
+737,246,"Primary keys, foreign keys, and constraints",MR0PK0qkCD8,0,2
+738,246,Normalization and relational design,GFQaEYEc8_8,0,3
+739,247,"Subqueries, CTEs, and window functions",LJC8277LONg,0,1
+740,247,Indexes and query execution plans,VcA92fe1Erw,0,2
+741,247,Transactions and isolation levels,#NAME?,0,3
+742,248,"Date, string, and NULL handling",X8sRgRQkLwQ,0,1
+743,248,Views and reusable query patterns,CvMWoCVK2wE,0,2
+744,248,Debugging slow queries and safe migrations,ZtYhF66hIIc,0,3
+745,249,"Requirements, constraints, and capacity estimation",VBw703pjC3E,0,1
+746,249,API boundaries and data modeling,62mZkftD0qE,0,2
+747,249,"Monoliths, services, and architecture trade-offs",hresOSagElo,0,3
+748,250,Caching strategies and invalidation,1NngTUYPdpI,0,1
+749,250,Load balancing and horizontal scaling,xpDnVSmNFX0,0,2
+750,250,"Database indexing, replication, and partitioning",VHzUcMI5vkQ,0,3
+751,251,"Queues, streams, and asynchronous workflows",t8CfoIguoMk,0,1
+752,251,"Consistency, availability, and CAP trade-offs",VdrEq0cODu4,0,2
+753,251,"Idempotency, retries, and distributed failure",m6DtqSb1BDM,0,3
+754,252,Design a URL shortener,HHUi8F_qAXM,0,1
+755,252,Design a notification or feed system,1E3oeYkJ1P8,0,2
+756,252,"Reliability, observability, and security review",ytx6jr2TyxI,0,3
+757,253,"Providers, resources, and configuration",hOAkJZv3iEg,0,1
+758,253,"Variables, outputs, and locals",5Cq7dLwUVgI,0,2
+759,253,State files and plan/apply workflow,NxasIlhY_ow,0,3
+760,254,Modules and module composition,xBWmBPVTums,0,1
+761,254,"Expressions, loops, and dynamic blocks",v_F45CgfW-A,0,2
+762,254,Remote state and locking,UhNpn7lVRBY,0,3
+763,255,"Import, move, and refactor resources",Sz2stUNL3-Q,0,1
+764,255,Workspaces and environment strategy,W0x42D34OMw,0,2
+765,255,Drift detection and plan review,H-KJbDlwiPA,0,3
+766,256,Secrets and sensitive variables,55A6v0mu64g,0,1
+767,256,CI/CD and policy checks,scEDHsr3APg,0,2
+768,256,"Testing, versioning, and state recovery",R-bT-IuQ6W8,0,3
+769,257,Test pyramid and testing strategy,JQVA3xIrwEo,0,1
+770,257,"Unit tests, assertions, and fixtures",TytferBCLOo,0,2
+771,257,"Test doubles, stubs, and mocks",NPp2pvhGbkM,0,3
+772,258,Integration tests and test databases,AKSoIIf3SH8,0,1
+773,258,API tests and contract testing,10KE6XNGWPI,0,2
+774,258,UI end-to-end tests,d4x3pjs4GvU,0,3
+775,259,Test data and deterministic tests,FmaOToe33O4,0,1
+776,259,"Coverage, mutation testing, and risk",R0ByaIt8bX0,0,2
+777,259,Performance and reliability testing,OqR_48EvdEM,0,3
+778,260,Run tests in CI pipelines,EXtPSjP4sYg,0,1
+779,260,Flaky test diagnosis and reporting,nb1J4wxwBss,0,2
+780,260,Security testing and release gates,lBOAEDQWO9o,0,3
+781,261,"Visual hierarchy, spacing, and typography",0O7wh92y32Y,0,1
+782,261,"Color, contrast, and design tokens",PLtO4fy6JAM,0,2
+783,261,Responsive layouts and grids,gHdcAH1nhiU,0,3
+784,262,"Forms, feedback, and error states",sGiEnz9FYT4,0,1
+785,262,Navigation and information architecture,v39z0JPeIc8,0,2
+786,262,Reusable components and design systems,KnmxD8LvHmA,0,3
+787,263,Semantic HTML and keyboard navigation,l89I-em1Lnc,0,1
+788,263,Accessible forms and screen readers,aAh1PFsgcBY,0,2
+789,263,Usability testing and feedback,bcfqmx2hnUQ,0,3
+790,264,Translate designs into responsive interfaces,ZBwFW5DGzHg,0,1
+791,264,Design specifications and developer handoff,bioKutgupGI,0,2
+792,264,"UI review, consistency, and iteration",#NAME?,0,3
+793,265,"How browsers, DNS, and HTTP work",mpQZVYPuDGU,0,1
+794,265,HTML semantics and document structure,YPzFPoqwTmI,0,2
+795,265,CSS layout with Flexbox and Grid,aEj6k-gi9-s,0,3
+796,266,JavaScript fundamentals and DOM,NO5kUNxGIu0,0,1
+797,266,Responsive design and accessibility,gwiX0oASlEw,0,2
+798,266,"Forms, validation, and browser APIs",In0nB0ABaUk,0,3
+799,267,Server-side routing and request lifecycle,xv0Be4QfkH0,0,1
+800,267,REST APIs and JSON,#NAME?,0,2
+801,267,SQL databases and persistence,F7Vwp2Xo5Do,0,3
+802,268,Git workflows and build tooling,LpK4szuLPSw,0,1
+803,268,"Testing, performance, and security basics",k4J8ZdP5ihU,0,2
+804,268,"Deployment, domains, HTTPS, and monitoring",d6cNk-yQVQw,0,3
